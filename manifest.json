@@ -1,0 +1,24 @@
+{
+  "short_name": "AkhaDict",
+  "name": "Akha Heritage Dictionary",
+  "description": "แอปพลิเคชันพจนานุกรมมรดกอาข่า",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#18181b",
+  "background_color": "#f4f4f5",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1518005020950-77983088b99c?q=80&w=192&h=192&auto=format&fit=crop",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1518005020950-77983088b99c?q=80&w=512&h=512&auto=format&fit=crop",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
